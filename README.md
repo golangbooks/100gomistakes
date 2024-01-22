@@ -1,1 +1,1 @@
-# 100gomistakes
+勘误表
